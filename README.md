@@ -1,2 +1,2 @@
 # Data-Analysis-Projects
-Data Analysis projects
+This repository includes various Data Analysis Projects
