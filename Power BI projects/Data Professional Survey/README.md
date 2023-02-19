@@ -1,1 +1,1 @@
-
+This dashboard is created based on the data that was collected using a survey that collected the different data professionals. Data was cleaned and trasnformed in Power BI, then the appropriate visualizations were used to create the dashboard.
